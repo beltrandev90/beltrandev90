@@ -1,13 +1,13 @@
 <h1 align="center">Hola👋, soy Inma Beltrán Vega</h1>
-<h3 align="center">Soy un Frontend Developer</h3>
+<h3 align="center">Soy Desarrolladora Frontend</h3>
 
-- 👯 I’m looking to collaborate on [Web Kuba Homes](https://kubahomes.com/)
+- 👯 Estoy colaborando con Kuba Homes [Web Kuba Homes](https://kubahomes.com/)
 
-- 👨‍💻 All of my projects are available at [https://beltrandev.com/](https://beltrandev.com/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://beltrandev.com/](https://beltrandev.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Angular, Ionic**
+- 💬 Pregúntame sobre **HTML, CSS, JavaScript, Angular, Ionic**
 
-- 📫 How to reach me **inma@beltrandev.com**
+- 📫 Cómo contactarme **beltrandev90@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
